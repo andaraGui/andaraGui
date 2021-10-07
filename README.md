@@ -1,6 +1,6 @@
 ### Hi, i'm Guilherme 👋
 
-- 🔭 I’m currently working on self improvement
+
 - 🌱 I’m currently learning MERN stack and Typescript
 - 🤔 I’m looking for help with code reviews 
 - 💬 Ask me about anything 
