@@ -1,8 +1,7 @@
 ### Hi, i'm Guilherme 👋
 
 
-- 🌱 I’m currently learning MERN stack and Typescript
-- 🤔 I’m looking for help with code reviews 
+- 🌱 I’m currently improving my SOLID and Design Patterns skills
 - 💬 Ask me about anything 
 - 😄 Pronouns: Gui/Andara 
 
